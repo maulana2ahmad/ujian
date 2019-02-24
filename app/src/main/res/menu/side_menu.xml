@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/MenuListRegister"
+        android:title="@string/list_user">
+
+    </item>
+
+    <item
+        android:id="@+id/tambah"
+        android:title="@string/tambah_data">
+
+    </item>
+
+</menu>
